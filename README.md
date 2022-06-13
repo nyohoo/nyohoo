@@ -1,7 +1,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyohoo&theme=dracula)
-
-[![](https://github-readme-stats.vercel.app/api?username=nyohoo&count_private=true&show_icons=true&theme=dracula)](https://github.com/nyohoo)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyohoo&layout=compact&theme=dracula)](https://github.com/nyohoo)
 <p>
 <a href="https://github.com/nyohoo">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=nyohoo&count_private=true&show_icons=true&theme=dracula" />
