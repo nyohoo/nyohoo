@@ -8,12 +8,12 @@
 
 </a>
   <a href="https://github.com/nyohoo">
-  <img align="left" height="200px" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/3-stats.svg" />
+  <img align="left" height="235px" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/3-stats.svg" />
 </a>
 
 </a>
   <a href="https://github.com/nyohoo">
-  <img align="left" height="200px" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/4-productive-time.svg" />
+  <img align="left" height="235px" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/4-productive-time.svg" />
 </a>
 
 </a>
