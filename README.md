@@ -8,7 +8,7 @@
 
 </a>
   <a href="https://github.com/nyohoo">
-  <img align="left" height="236px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyohoo&theme=dark" />
+  <img align="left" height="236px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyohoo&theme=github" />
 </a>
 
 </p>
