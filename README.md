@@ -2,6 +2,8 @@
 
 I build web backends with Rails. On the side, I make tools for picking up where I left off, and apps for sharing the records I love.
 
+![PATCH BAY: two guitar pedals for Git Worktree Manager and MyFavoriteAlbums](assets/patch-bay.svg)
+
 ## Projects
 
 - **[Git Worktree Manager](https://github.com/nyohoo/git-worktree-manager)** — A tool for running Claude Code tasks in parallel, each in its own Git worktree.
